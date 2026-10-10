@@ -65,6 +65,6 @@ The projects shared here represent educational lab work. Each repository disting
 ## Connect
 
 - [Technical Portfolio](https://eldocjr.github.io)
-- [LinkedIn](www.linkedin.com/in/josh-r-roybal)
+- [LinkedIn](https://www.linkedin.com/in/josh-r-roybal)
 - [GitHub Projects](https://github.com/ElDocJR?tab=repositories)
 - Northern California
